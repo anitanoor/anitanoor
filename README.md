@@ -1,8 +1,5 @@
 ### Hello there! 🙂 👋
 
-<!--
-**anitanoor/anitanoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm Anita Noor, go around by Anita 
 👩‍💻 Quality Analyst at Tripaneer, B.V, The Netherlands
 🔍 Currently advancing in Java and Automated Testing
@@ -25,3 +22,8 @@
 ![image](https://user-images.githubusercontent.com/76419783/125165028-540be180-e1bf-11eb-8a99-d3047bf1ac5e.png)
 
 ### Let's stay in touch! 🥂 ✨
+
+
+<!--
+**anitanoor/anitanoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
