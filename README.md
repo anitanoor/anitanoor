@@ -9,11 +9,11 @@
 
 <br />
 
-📖  Love to read scientific journals ( and mangas 😉 )
+📖  Love to read journals ( and mangas 😉 )
 
 --- 
 
-### Skill & Technologies
+### Skills & Technologies
 
 #### Languages
 <img align="left" alt="Java" width="47px" src="https://user-images.githubusercontent.com/76419783/125198505-5d16b480-e28c-11eb-94c8-fe78e38236a7.png" />
