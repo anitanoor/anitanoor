@@ -18,6 +18,8 @@
 #### Languages
 <img align="left" alt="Java" width="47px" src="https://user-images.githubusercontent.com/76419783/125198505-5d16b480-e28c-11eb-94c8-fe78e38236a7.png" />
 
+<img align="left" alt="JavaScript" width="47px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.fxMFAWgcs9ASnyZoIMeLJAHaHa%26pid%3DApi&f=1" />
+
 <br />
 <br />
 <br />
