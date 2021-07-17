@@ -25,6 +25,10 @@
 <br />
 
 #### DevOps
+<img align="left" alt="Intellij" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.mIZeBtd_rKMrPhGN8RkEngHaHa%26pid%3DApi&f=1" />
+
+<img align="left" alt="VSCode" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.3Z_C8ZyHjN_6QNVbshmobgHaHa%26pid%3DApi&f=1" />
+
 <img align="left" alt="Github" width="50px" src="https://user-images.githubusercontent.com/76419783/125199407-470af300-e290-11eb-8313-9b222db7be2e.png" />
 
 <img align="left" alt="Gitlab" width="42px" src="https://user-images.githubusercontent.com/76419783/125199420-5427e200-e290-11eb-98b9-dfc6bcc7ac62.png" />
