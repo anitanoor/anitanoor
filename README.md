@@ -1,15 +1,23 @@
 ## Hello there! I'm Anita Noor 🙂 👋
 
 ### What do I do? 
-👩‍💻  Quality Analyst at Tripaneer, B.V, The Netherlands
+👩‍💻  Quality Analyst at Gmedes Global, Singapore <br />
+👩‍💻  Ex-Tripaneer, B.V, The Netherlands
 
 <br />
 
-🔍  Currently advancing in Java and Automated Testing
+🔍  Currently advancing in Selenium and Java
 
-<br />
+--- 
 
-📖  Love to read journals ( and mangas 😉 )
+
+### Career Highlights
+<p>&#x1F4B9;  Gained revenue to $26 million (2019) </p>
+
+<p>&#x1F46B;  Grew the company's size from 17 to 300+ employees (2018) </p>
+
+<p>&#x1F50D;  Improved product quality to 90% and kept defect rate below 5% in 3 months (2021) </p>
+
 
 --- 
 
@@ -35,6 +43,8 @@
 
 <img align="left" alt="Git" width="42px" src="https://user-images.githubusercontent.com/76419783/125199467-7de10900-e290-11eb-8e2b-ca5e143a0806.png" />
 
+<img align="left" alt="Postman" width="42px" src="https://user-images.githubusercontent.com/76419783/152568142-0c9f9e2b-3b3c-44fb-8422-9b48ebc28e30.png" />
+
 <br />
 <br />
 <br />
@@ -50,7 +60,7 @@
 <br />
 <br />
 <br />
-
-#### Let's stay in touch! 🥂 ✨
+<br />
+<p><b>Contact me for upcoming opportunity! &#129309;</b></p>
 
 
